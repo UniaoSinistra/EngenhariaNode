@@ -1,3 +1,5 @@
+#Alteração Teste
+
 # Connexa — modelo de repositório (Node.js + React)
 
 Repositório-modelo para as equipes que escolheram **TypeScript e Node.js** no back-end do Connexa. A partir dele, cada equipe cria, na organização do GitHub da própria equipe, o seu `<repositorio-da-equipe>` — com nome escolhido pela equipe — e já recebe a infraestrutura pronta: arquitetura modular, banco de dados, testes, CI, ambiente no GitHub Codespaces e a conexão do agente de IA com o Azure Boards.
